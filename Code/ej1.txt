@@ -1,0 +1,8 @@
+texto relacionado,dato numerico
+Website Visit,100.0
+Download Page Visit,82.0
+Downloaded,77.0
+Interested To Buy,56.0
+Purchased,64.0
+Shared,30.0
+One more example,5.0
